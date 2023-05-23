@@ -1,36 +1,20 @@
 const express = require('express');
 const morgan = require('morgan');
+const bodyParser = require('body-parser');
+const mongoose = require('mongoose');
+const routes = require('./src/routes/main.routes');
 const app = express();
+main().catch(err => console.log(err));
+async function main() {
+    await mongoose.connect('mongodb://127.0.0.1:27017/netflix', { useNewUrlParser: true, useUnifiedTopology: true });
+}
+
 
 app.use(morgan('dev'));
+app.use(bodyParser.json());
+app.use("/", routes);
 
-app.get('/', (req, res) => {
-    // recuperar todos os registros
-    res.json({ message: 'Pegar todos os registros' });
-});
 
-app.get('/:id', (req, res) => {
-    // recuperar um registro
-    const id = req.params.id;
-    res.json({ message: 'Pegar um registro' });
-});
-// criar um registro
-app.post('/', (req, res) => {
-    const body = req.body;
-    res.json(body);
-});
-// atualizar um registro
-app.put('/:id', (req, res) => {
-    const id = req.params.id;
-    const body = req.body;
-    res.json({ mensagem: 'Atualizar um registro', id, body });
-});
-// deletar um registro
-app.delete('/:id', (req, res) => {
-    const id = req.params.id;
-    res.json({ id });
-
-});
 
 app.listen(3000, () => {
     console.log('Servidor rodando na porta 3000');
