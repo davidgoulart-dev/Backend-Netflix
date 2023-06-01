@@ -1,0 +1,209 @@
+[
+    {
+        "titulo": "Enola Holmes",
+        "tipo": "serie",
+        "capa": "https://i.imgur.com/QGgXFl6.png",
+        "logo": "https://i.imgur.com/ZqxNOCO.png",
+        "thumb": "https://i.imgur.com/tPqnpDv.png",
+        "descricao": "Enola Holmes é um filme de mistério de 2020, baseado na série literária homônima de Nancy Springer, dirigido por Harry Bradbeer e escrito por Jack Thorne, onde conta a história de Enola Holmes, uma adolescente que fará de tudo para encontrar a mãe desaparecida, inclusive despistar o irmão, Sherlock Holmes, e ajudar um jovem lorde fugitivo.",
+        "generos": [
+            "Filmes para toda a familia",
+            "Obras de época",
+            "Filmes baseados em livros"
+        ],
+        "elenco": [
+            "Millie Bob Brown",
+            "Henry Cavill",
+            "Sam Claflin"
+        ],
+        "cenas_momentos": [
+            "Espirituosos",
+            "Suspense no ar",
+            "Empolgantes"
+        ]
+    },
+    {
+        "titulo": "Inception",
+        "tipo": "filme",
+        "capa": "https://i.imgur.com/C3SQGak.jpg",
+        "logo": "https://i.imgur.com/eoOhECW.png",
+        "thumb": "https://i.imgur.com/6hjhtG6.jpg",
+        "descricao": "Inception é um thriller de ficção científica lançado em 2010. O filme, escrito e dirigido por Christopher Nolan, explora o conceito de roubo e implante de ideias através do sonho. O protagonista é Dom Cobb, um ladrão habilidoso interpretado por Leonardo DiCaprio.",
+        "generos": [
+            "Thrillers de ação",
+            "Filmes de ficção científica",
+            "Filmes de suspense"
+        ],
+        "elenco": [
+            "Leonardo DiCaprio",
+            "Ellen Page",
+            "Joseph Gordon-Levitt"
+        ],
+        "cenas_momentos": [
+            "Suspense de roer unhas",
+            "Visuais deslumbrantes",
+            "Intriga mental"
+        ]
+    },
+    {
+        "titulo": "Breaking Bad",
+        "tipo": "serie",
+        "capa": "https://i.imgur.com/gZn33So.jpg",
+        "logo": "https://i.imgur.com/DZJcP8T.png",
+        "thumb": "https://i.imgur.com/AGQhX7o.jpg",
+        "descricao": "Breaking Bad é uma série de televisão americana criada por Vince Gilligan que retrata Walter White, um professor de química do ensino médio que se torna um poderoso criminoso no mercado de metanfetaminas após ser diagnosticado com câncer terminal.",
+        "generos": [
+            "Drama criminal",
+            "Séries de televisão dos EUA",
+            "Thrillers de TV"
+        ],
+        "elenco": [
+            "Bryan Cranston",
+            "Aaron Paul",
+            "Anna Gunn"
+        ],
+        "cenas_momentos": [
+            "Dramáticos",
+            "Tenso",
+            "Emocionantes"
+        ]
+    },
+    {
+        "titulo": "Stranger Things",
+        "tipo": "serie",
+        "capa": "https://i.imgur.com/cRDFNKB.png",
+        "logo": "https://i.imgur.com/CIL0ETz.png",
+        "thumb": "https://i.imgur.com/E1IbhJZ.jpg",
+        "descricao": "Stranger Things é uma série de televisão americana de ficção científica e terror criada pelos irmãos Duffer. A série se passa na década de 1980 em uma pequena cidade, onde a aparição de um garoto desaparecido e um monstro de outro mundo perturbam a tranquila vida da cidade.",
+        "generos": [
+            "Drama",
+            "Ficção científica",
+            "Horror"
+        ],
+        "elenco": [
+            "Millie Bobby Brown",
+            "Finn Wolfhard",
+            "Winona Ryder"
+        ],
+        "cenas_momentos": [
+            "Sombrios",
+            "Aventura",
+            "Suspense"
+        ]
+    },
+    {
+        "titulo": "The Crown",
+        "tipo": "serie",
+        "capa": "https://i.imgur.com/LM8qzV0.png",
+        "logo": "https://i.imgur.com/kT3pfdj.png",
+        "thumb": "https://i.imgur.com/2qIOmOy.png",
+        "descricao": "The Crown é uma série de drama biográfico sobre a reinado da Rainha Elizabeth II. A série aborda os desafios políticos e pessoais que a rainha enfrentou durante seu reinado.",
+        "generos": [
+            "Séries britânicas",
+            "Drama",
+            "Séries baseadas em fatos reais"
+        ],
+        "elenco": [
+            "Claire Foy",
+            "Matt Smith",
+            "Olivia Colman"
+        ],
+        "cenas_momentos": [
+            "Inspirador",
+            "Emocional",
+            "Histórico"
+        ]
+    },
+    {
+        "titulo": "Fleabag",
+        "tipo": "serie",
+        "capa": "https://i.imgur.com/qjISu9z.png",
+        "logo": "https://i.imgur.com/hABJ3pN.png",
+        "thumb": "https://i.imgur.com/BO8nzuK.png",
+        "descricao": "Fleabag é uma série de comédia dramática britânica criada e escrita por Phoebe Waller-Bridge, que também estrela a série. A série segue a vida de uma mulher jovem e confusa em Londres, conhecida apenas como 'Fleabag'.",
+        "generos": [
+            "Séries britânicas",
+            "Comédia",
+            "Drama"
+        ],
+        "elenco": [
+            "Phoebe Waller-Bridge",
+            "Sian Clifford",
+            "Olivia Colman"
+        ],
+        "cenas_momentos": [
+            "Hilariantes",
+            "Emocional",
+            "Crueza"
+        ]
+    },
+    {
+        "titulo": "The Matrix",
+        "tipo": "filme",
+        "capa": "https://i.imgur.com/6oJN1Fo.png",
+        "logo": "https://i.imgur.com/RMcRrD8.png",
+        "thumb": "https://i.imgur.com/4kAPlY1.png",
+        "descricao": "The Matrix é um filme de ação e ficção científica de 1999, dirigido por Lana e Lilly Wachowski. O filme segue o programador de computador Thomas Anderson, que vive uma vida dupla como o hacker 'Neo', e descobre a verdadeira natureza da realidade - um mundo simulado chamado 'Matrix'.",
+        "generos": [
+            "Filmes de ação",
+            "Filmes de ficção científica",
+            "Filmes cyberpunk"
+        ],
+        "elenco": [
+            "Keanu Reeves",
+            "Laurence Fishburne",
+            "Carrie-Anne Moss"
+        ],
+        "cenas_momentos": [
+            "Ação intensa",
+            "Mente flexão",
+            "Futurístico"
+        ]
+    },
+    {
+        "titulo": "Game of Thrones",
+        "tipo": "serie",
+        "capa": "https://i.imgur.com/8Z2x8mp.png",
+        "logo": "https://i.imgur.com/NI4lr6h.png",
+        "thumb": "https://i.imgur.com/KuyrSvl.png",
+        "descricao": "Game of Thrones é uma série de televisão de drama e fantasia baseada na série de livros 'A Song of Ice and Fire' de George R.R. Martin. A série tem um grande elenco e segue várias tramas interligadas, todas lutando pelo controle do Trono de Ferro.",
+        "generos": [
+            "Séries de fantasia",
+            "Drama",
+            "Séries baseadas em livros"
+        ],
+        "elenco": [
+            "Emilia Clarke",
+            "Kit Harington",
+            "Peter Dinklage"
+        ],
+        "cenas_momentos": [
+            "Emocionantes",
+            "Suspense",
+            "Épico"
+        ]
+    },
+    {
+        "titulo": "The Dark Knight",
+        "tipo": "filme",
+        "capa": "https://i.imgur.com/ARkBBwr.png",
+        "logo": "https://i.imgur.com/4oWy7vQ.png",
+        "thumb": "https://i.imgur.com/qG0IDpD.png",
+        "descricao": "The Dark Knight é um filme de super-herói de 2008 dirigido por Christopher Nolan. A sequência de Batman Begins vê Batman, interpretado por Christian Bale, lutando contra o Joker, interpretado por Heath Ledger, que está causando caos em Gotham City.",
+        "generos": [
+        "Filmes de super-heróis",
+        "Filmes de ação",
+        "Thrillers"
+        ],
+        "elenco": [
+        "Christian Bale",
+        "Heath Ledger",
+        "Aaron Eckhart"
+        ],
+        "cenas_momentos": [
+        "Emocionantes",
+        "Dark",
+        "Ação intensa"
+        ]
+        }
+]
