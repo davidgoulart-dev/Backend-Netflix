@@ -20,7 +20,7 @@ const addTemporadasEpisodeos = async() => {
                 for (let x = 1; x <= numEpisodeos; x++){
                     console.log(`Inserindo Episodeos ${x} de ${numEpisodeos}`);
                     await new Episodeo({
-                        temporada: temporada._id,
+                        temporada_id: temporada._id,
                         titulo: `Episodeo ${x} `,
                         numero: x,
                         descricao: 'Mussum Ipsum, cacilds vidis litro abertis. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.In elementis mé pra quem é amistosis quis leo.Pra lá , depois divoltis porris, paradis.Todo mundo vê os porris que eu tomo, mas ninguém vê os tombis que eu levo!',

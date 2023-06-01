@@ -12,6 +12,7 @@ async function main() {
 }
 const filmeRoutes = require('./src/routes/main.routes')
 const usuarioRoutes = require('./src/routes/usuarios.routes')
+const episodeosRoutes = require('./src/routes/episodeos.routes')
 /// MIDDLEWARES
 app.use(cors());
 app.use(morgan('dev'));
@@ -19,6 +20,7 @@ app.use(bodyParser.json());
 /// ROUTES
 app.use("/", filmeRoutes);
 app.use("/usuario", usuarioRoutes );
+app.use("/episodeo", episodeosRoutes)
 
 
 
