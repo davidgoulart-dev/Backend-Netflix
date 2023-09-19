@@ -3,5 +3,5 @@ const mongoose = require('mongoose');
 
 main().catch(err => console.log(err));
 async function main() {
-    await mongoose.connect('mongodb://127.0.0.1:27017/netflix', { useNewUrlParser: true, useUnifiedTopology: true });
+    await mongoose.connect('mongodb+srv://davidgoulartdev:22456328@cluster0.elhsxfg.mongodb.net/?retryWrites=true&w=majority', { useNewUrlParser: true, useUnifiedTopology: true });
 }
